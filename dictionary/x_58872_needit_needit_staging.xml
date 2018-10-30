@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="Needit_staging" max_length="40" name="x_58872_needit_needit_staging" type="collection">
+        <element attributes="import_attribute_name=ALLU.MANASA,edge_encryption_enabled=true" label="ALLU.MANASA" max_length="268" name="u_allu_manasa" type="string"/>
+    </element>
+</database>
